@@ -1,3 +1,4 @@
-# Theory of Computation Problem Sets 1-6
+# Theory of Computation 
 
-(assignment_solutions_with_questions.pdf)
+[assignment_solutions_with_questions.pdf](https://github.com/user-attachments/files/27610183/assignment_solutions_with_questions.pdf)
+
