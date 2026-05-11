@@ -21,7 +21,7 @@ $$
 
 Hence $C \cap R$ is context free.
 
-#### (b) $A = \{w \in \{a,b,c\}^* \mid \#a(w)=\#b(w)=\#c(w)\}$ is not context free.
+#### (b) $\A = \{w \in \{a,b,c\}^* \mid \#a(w)=\#b(w)=\#c(w)\}$ is not context free.
 
 Assume $A$ were context free. Since regular languages are closed under intersection with CFLs, the language
 
