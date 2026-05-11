@@ -1,4 +1,4 @@
-# Theory of Computation
+# Theory of Computation | Mathematics | MIT OpenCourseWare
 
 ## Problem Sets 1-6
 
